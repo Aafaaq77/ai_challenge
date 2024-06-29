@@ -1,0 +1,8 @@
+pandas
+flask
+azure-ml
+bertopic
+nltk
+scikit-learn
+azure-identity
+azureml-core
